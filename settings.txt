@@ -1,0 +1,2 @@
+filepath=prices.csv
+interval=6
